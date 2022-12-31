@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "951160543122",
+    "firebase_url": "https://fadr-1533970908846.firebaseio.com",
+    "project_id": "fadr-1533970908846",
+    "storage_bucket": "fadr-1533970908846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951160543122:android:c6bb4172c220c146d0134b",
+        "android_client_info": {
+          "package_name": "com.kynginc.fadr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951160543122-1nqga4usjejhl57bbd39kprsd9rn9kfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kynginc.fadr",
+            "certificate_hash": "c3a48ee2485d872a82655c23772c5dd1270b38f6"
+          }
+        },
+        {
+          "client_id": "951160543122-62e0tl8fvvp9qp6qmviei419b05tmhjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kynginc.fadr",
+            "certificate_hash": "0fa8934decb83d8b5ec754cfed50cbecf6afb2b4"
+          }
+        },
+        {
+          "client_id": "951160543122-86sam0t91j1oaqgu5an28v0cpjmv5ckj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kynginc.fadr",
+            "certificate_hash": "2e2a3192af6175231b3fe2a85ab71ed3cafaf51c"
+          }
+        },
+        {
+          "client_id": "951160543122-d2240kl4vlg3p5ol9oo9inemk0oikbr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kynginc.fadr",
+            "certificate_hash": "ae1ba7c8f49e42544c2e4c3c89b41dc1abda8c2c"
+          }
+        },
+        {
+          "client_id": "951160543122-fj5sivjc36peh0ii11k7koc7feoqop6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kynginc.fadr",
+            "certificate_hash": "7c1f5414a7332893b5d9c749e9e9767046e5edc7"
+          }
+        },
+        {
+          "client_id": "951160543122-iecbfb72t3vg5sal5lruchrbe6se5de0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kynginc.fadr",
+            "certificate_hash": "e42881baf71d628bcd566db9c077ea40ba8c0708"
+          }
+        },
+        {
+          "client_id": "951160543122-ml4uq3vq0ovmjlekub3egk595or8tg5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kynginc.fadr",
+            "certificate_hash": "440e5cf6066c74abc6c50b52398eb41a0e377c5f"
+          }
+        },
+        {
+          "client_id": "951160543122-mm4g9sl1kvsfs1ssqp0mb686rdi29f50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kynginc.fadr",
+            "certificate_hash": "ea21c9b20e669ddfb14588932387b46bdd1e009e"
+          }
+        },
+        {
+          "client_id": "951160543122-umkfks7d71b1h79s6ri4epkjniidrkb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kynginc.fadr",
+            "certificate_hash": "4fd3e9bae24b0fb65e769e5618d80a89f628c1af"
+          }
+        },
+        {
+          "client_id": "951160543122-edabcdekner35hs2udom92agj7dt05vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCzTRtqX9xwWvrw73UMogoSfq9S5rGPJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951160543122-4n8roiuls2gdrsiqld8v0dffhcc1dl51.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "951160543122-fk3ppij3r5iadkvqklv20673j2ju882k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kynginc.fadr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
